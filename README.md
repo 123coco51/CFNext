@@ -329,7 +329,7 @@ Proxy-HK.SenflareLink.Kdns.fr,Proxy-TW.SenflareLink.Kdns.fr,Proxy-JP.SenflareLin
 | 项目名称 | **CFNext 订阅管理器** |
 | 当前版本 | v2.8.1 |
 | 运行环境 | Cloudflare Workers / Pages |
-| 部署形态 | 单文件 Worker/Pages（`CFNext 明文版/混淆版/小说混淆版`） |
+| 部署形态 | 单文件 Worker/Pages（`CFNext 明文版/混淆版/小说混淆版（代码切片/索引重建）`） |
 | 数据存储 | Cloudflare KV（绑定变量 **K**），未绑定时配置仅存于当前会话 |
 | 面板入口 | `https://你的域名/<login设置的值>`（或自定义路径） |
 
