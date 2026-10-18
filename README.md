@@ -4,8 +4,8 @@
 >
 > **[✈ Telegram 交流群](https://t.me/SZ_PAI)**
 > **[📺️ YouTube 频道](https://www.youtube.com/@PAI_CN)**
-> **[▶️ 新版本部署教程](https://youtu.be/JKrLti2_IvQ)**
-> **[▶️ 视频使用教程](https://youtu.be/1GCZgdGFsk0)**
+> **[▶️ 3.0 新版本部署教程](https://www.youtube.com/watch?v=CQ8zvWXkZzA)**
+> **[▶️ 2.0 Worker模式视频使用教程](https://youtu.be/1GCZgdGFsk0)**
 <details>
   <summary>✨点击展开更新日志</summary>
 
