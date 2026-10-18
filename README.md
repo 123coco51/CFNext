@@ -480,6 +480,7 @@ Proxy-HK.SenflareLink.Kdns.fr,Proxy-TW.SenflareLink.Kdns.fr,Proxy-JP.SenflareLin
 
 ## 八、致谢
 
-- 致谢 [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) 等 Cloudflare Worker 代理项目。
+- 感谢 [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) 等 Cloudflare Worker 代理项目。
+- 感谢 [byJoey/CFnew](https://github.com/byJoey/cfnewl) 。
 - 感谢 mihomo / sing-box 社区与 WARP / MASQUE 协议的公开实现。
 - 感谢 Telegram 交流群与各位用户的反馈。
