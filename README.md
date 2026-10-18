@@ -6,6 +6,9 @@
 > **[📺️ YouTube 频道](https://www.youtube.com/@PAI_CN)**
 > **[▶️ 3.0 新版本部署教程](https://www.youtube.com/watch?v=CQ8zvWXkZzA)**
 > **[▶️ 2.0 Worker模式视频使用教程](https://youtu.be/1GCZgdGFsk0)**
+>
+# 注意事项！注意事项！注意事项！明文版代码仅作为开源使用，强烈不建议进行线上部署
+
 <details>
   <summary>✨点击展开更新日志</summary>
 
