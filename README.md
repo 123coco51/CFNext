@@ -25,7 +25,6 @@
 - 通过公共 DoH 解析代理域名，最多并发尝试 6 个地址。
 - 反代顺序调整为：目标直连 → 自定义 PROXYIP → 内置地区出口。
 - only 模式改为严格模式：SOCKS5 失败就失败，不再隐式回退。
-- S/OUTBOUND、OUTBOUND_MODE/SMODE 环境变量优先于 KV
 
 ## 🐛 BUG 处理
 - 修复 API 密钥绕过订阅路径校验的问题。
