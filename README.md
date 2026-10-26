@@ -6,10 +6,12 @@
 > **[📺️ YouTube 频道](https://www.youtube.com/@PAI_CN)**
 > **[▶️ 3.0 新版本部署教程](https://www.youtube.com/watch?v=CQ8zvWXkZzA)**
 > **[▶️ 2.0 Worker模式视频使用教程](https://youtu.be/1GCZgdGFsk0)**
-
+> 
 # 注意：明文版代码仅作为开源使用，不建议进行线上部署
+> 
 > ## [✈️ 四年超稳定老牌机场](https://www.beupisp.com/register?code=5vnEa9vV)
 > ## [✈️ 备用超高性价比机场](https://103.73.220.147:8888/#/register?code=luC4csRk)
+
 <details>
   <summary>✨点击展开更新日志</summary>
 
