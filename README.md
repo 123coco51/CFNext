@@ -8,7 +8,7 @@
 > **[▶️ 2.0 Worker模式视频使用教程](https://youtu.be/1GCZgdGFsk0)**
 
 # 注意：明文版代码仅作为开源使用，不建议进行线上部署
-> **[✈️ 自用超稳定机场](https://www.beupisp.com/register?code=5vnEa9vV)**
+> ## [✈️ 自用超稳定机场](https://www.beupisp.com/register?code=5vnEa9vV)**
 <details>
   <summary>✨点击展开更新日志</summary>
 
