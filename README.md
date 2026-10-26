@@ -409,7 +409,7 @@ Proxy-HK.SenflareLink.Kdns.fr,Proxy-TW.SenflareLink.Kdns.fr,Proxy-JP.SenflareLin
 
 | 项    | 内容                                                                                              |
 | ---- | ----------------------------------------------------------------------------------------------- |
-| 当前版本 | `3.0.2`                                                                                         |
+| 当前版本 | `3.0.3`                                                                                         |
 | 部署平台 | Cloudflare **Workers** / **Pages**                                                              |
 | 协议   | VLESS / Trojan / XHTTP / WARP（WireGuard）/ MASQUE / OpenVPN（家宽）                                  |
 | 订阅格式 | Clash（mihomo / Verge）、sing-box、Karing、v2rayN等                                                   |
